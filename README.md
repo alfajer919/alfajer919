@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hao Jiang
 
-<!--
-**alfajer919/alfajer919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student at Soochow University**
 
-Here are some ideas to get you started:
+Suzhou, Jiangsu, China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a student at Soochow University, China. My research focuses on anomaly generation and anomaly detection.
+
+I am interested in developing generative methods for anomaly synthesis and effective detection approaches for identifying anomalous patterns.
+
+## Research Interests
+
+- Anomaly Generation
+- Anomaly Detection
+
+## Education
+
+**Soochow University**
+
+Student
+
+## Contact
+
+- Email: 20255227124@stu.suda.edu.cn
