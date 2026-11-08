@@ -1,6 +1,6 @@
 # Hao Jiang
 
-**Student at Soochow University**
+**Master's Student at Soochow University**
 
 Suzhou, Jiangsu, China
 
@@ -19,7 +19,7 @@ I am interested in developing generative methods for anomaly synthesis and effec
 
 **Soochow University**
 
-Student
+Master's Student
 
 ## Contact
 
